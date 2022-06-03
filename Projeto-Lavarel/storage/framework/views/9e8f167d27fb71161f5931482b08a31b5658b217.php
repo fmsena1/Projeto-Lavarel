@@ -1,0 +1,1 @@
+<h1>Page Product</h1><?php /**PATH C:\Users\Adm\Documents\GitHub\Projeto-Lavarel\Projeto-Lavarel\resources\views/product.blade.php ENDPATH**/ ?>

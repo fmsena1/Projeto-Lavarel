@@ -1,0 +1,1 @@
+<h1>Page contact</h1><?php /**PATH C:\Users\Adm\Documents\GitHub\Projeto-Lavarel\Projeto-Lavarel\resources\views/contact.blade.php ENDPATH**/ ?>
